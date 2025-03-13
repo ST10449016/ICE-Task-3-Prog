@@ -1,0 +1,14 @@
+C:\Users\pr3sh\source\repos\ST10449016 Prog ICE Task 3\ST10449016 Prog ICE Task 3\obj\Debug\net9.0\ST10449016 Prog ICE Task 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pr3sh\source\repos\ST10449016 Prog ICE Task 3\ST10449016 Prog ICE Task 3\obj\Debug\net9.0\ST10449016 Prog ICE Task 3.AssemblyInfoInputs.cache
+C:\Users\pr3sh\source\repos\ST10449016 Prog ICE Task 3\ST10449016 Prog ICE Task 3\obj\Debug\net9.0\ST10449016 Prog ICE Task 3.AssemblyInfo.cs
+C:\Users\pr3sh\source\repos\ST10449016 Prog ICE Task 3\ST10449016 Prog ICE Task 3\obj\Debug\net9.0\ST10449016 Prog ICE Task 3.csproj.CoreCompileInputs.cache
+C:\Users\pr3sh\source\repos\ST10449016 Prog ICE Task 3\ST10449016 Prog ICE Task 3\bin\Debug\net9.0\ST10449016 Prog ICE Task 3.exe
+C:\Users\pr3sh\source\repos\ST10449016 Prog ICE Task 3\ST10449016 Prog ICE Task 3\bin\Debug\net9.0\ST10449016 Prog ICE Task 3.deps.json
+C:\Users\pr3sh\source\repos\ST10449016 Prog ICE Task 3\ST10449016 Prog ICE Task 3\bin\Debug\net9.0\ST10449016 Prog ICE Task 3.runtimeconfig.json
+C:\Users\pr3sh\source\repos\ST10449016 Prog ICE Task 3\ST10449016 Prog ICE Task 3\bin\Debug\net9.0\ST10449016 Prog ICE Task 3.dll
+C:\Users\pr3sh\source\repos\ST10449016 Prog ICE Task 3\ST10449016 Prog ICE Task 3\bin\Debug\net9.0\ST10449016 Prog ICE Task 3.pdb
+C:\Users\pr3sh\source\repos\ST10449016 Prog ICE Task 3\ST10449016 Prog ICE Task 3\obj\Debug\net9.0\ST10449016 Prog ICE Task 3.dll
+C:\Users\pr3sh\source\repos\ST10449016 Prog ICE Task 3\ST10449016 Prog ICE Task 3\obj\Debug\net9.0\refint\ST10449016 Prog ICE Task 3.dll
+C:\Users\pr3sh\source\repos\ST10449016 Prog ICE Task 3\ST10449016 Prog ICE Task 3\obj\Debug\net9.0\ST10449016 Prog ICE Task 3.pdb
+C:\Users\pr3sh\source\repos\ST10449016 Prog ICE Task 3\ST10449016 Prog ICE Task 3\obj\Debug\net9.0\ST10449016 Prog ICE Task 3.genruntimeconfig.cache
+C:\Users\pr3sh\source\repos\ST10449016 Prog ICE Task 3\ST10449016 Prog ICE Task 3\obj\Debug\net9.0\ref\ST10449016 Prog ICE Task 3.dll
